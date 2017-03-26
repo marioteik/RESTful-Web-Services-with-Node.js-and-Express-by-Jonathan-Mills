@@ -1,0 +1,33 @@
+{
+  "name": "bookapi",
+  "version": "0.0.0",
+  "description": "RESTful Web Services with Node.js and Express by Jonathan Mills by Jonathan Mills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioteik/RESTful-Web-Services-with-Node.js-and-Express-by-Jonathan-Mills.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marioteik/RESTful-Web-Services-with-Node.js-and-Express-by-Jonathan-Mills/issues"
+  },
+  "homepage": "https://github.com/marioteik/RESTful-Web-Services-with-Node.js-and-Express-by-Jonathan-Mills#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^4.1.0",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^4.9.1",
+    "should": "^11.2.1",
+    "sinon": "^2.1.0"
+  },
+  "devDependencies": {
+    "gulp-env": "^0.4.0",
+    "supertest": "^3.0.0"
+  }
+}
